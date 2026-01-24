@@ -8,7 +8,7 @@
 <br />
 
 ### Main languages:
-![Python](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp; 
+![Python](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png)&nbsp; 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; 
 
 ### Main tools:
