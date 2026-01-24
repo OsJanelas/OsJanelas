@@ -8,9 +8,10 @@
 <br />
 
 ### Main languages:
-![Python](https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png)&nbsp; 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; 
-
+## Python
+## Batch
+## VBS
+## C++
 ### Main tools:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
