@@ -7,11 +7,8 @@
 
 <br />
 
-### Main languages:
-## Python
-## Batch
-## VBS
-## C++
+## Languanges:
+Python, Batch, VBS, HTML, F#, C#, Visual Basic .NET, Assembly and C++ (soon have Shell and C)
 ### Main tools:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
