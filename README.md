@@ -16,4 +16,5 @@ Python, Batch, VBS, HTML, F#, C#, Visual Basic .NET, Assembly and C++ (soon have
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 # This README.md have credits to ArTicZera
+And all GDI Malwares before KidKad credits for Bandu-Phone, and all malware before Mercurium have MBR made in a program made by WobbyChip
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
