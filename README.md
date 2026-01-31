@@ -17,7 +17,7 @@ We are brazilian programers
 
 ---
 
-### 🛠️ Languages i use much
+### 🛠️ Languages we use much
 <p align="left">
   <img src="https://img.shields.io/badge/Batch-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/VBScript-%2315A9CE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
