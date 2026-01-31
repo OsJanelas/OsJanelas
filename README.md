@@ -29,4 +29,3 @@ We are brazilian programers
 </p>
 
 ---
-⚡ *Curiosidade: O gráfico de linguagens acima é gerado automaticamente com base nos seus repositórios públicos.*
