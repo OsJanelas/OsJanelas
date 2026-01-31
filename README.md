@@ -1,6 +1,6 @@
-# Olá, eu sou o OsJanelas 👋
+# Hi, we are SuperNaray and DaniloSenseiPlus, the OsJanelas creators 👋
 
-Aqui estão as estatísticas do meu ecossistema de desenvolvimento:
+We are brazilian programers
 
 ---
 
