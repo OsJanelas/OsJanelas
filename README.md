@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header"/>
 
+[![my skills](https://skillicons.dev/icons?i=rust,cpp,cs,dotnet,python,linux,raspberrypi)](https://skillicons.dev)
+
 # Hi, we are SuperNaray and DaniloSenseiPlus, the OsJanelas creators 👋
 
 We are brazilian programers
