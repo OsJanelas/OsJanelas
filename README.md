@@ -34,6 +34,6 @@ We are brazilian programers
 ---
 
 ## All languages we used
-[![my skills](https://skillicons.dev/icons?i=windows,cs,cpp,html,c,python,bash,powershell,fs)](https://skillicons.dev)
+[![my skills](https://skillicons.dev/icons?i=windows,cs,cpp,html,c,python,bash,powershell,net)](https://skillicons.dev)
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e6ca30&fontSize=40&fontAlignY=45&animation=twinkling&section=footer"/> 
