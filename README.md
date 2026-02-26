@@ -28,3 +28,4 @@ We are brazilian programers
 </p>
 
 ---
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e6ca30&fontSize=40&fontAlignY=45&animation=twinkling&section=footer"/> 
