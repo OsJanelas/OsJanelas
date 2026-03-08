@@ -40,5 +40,6 @@ We are brazilian programers
 
 ## All languages we used
 [![my skills](https://skillicons.dev/icons?i=windows,cs,cpp,html,c,python,bash,powershell,net,ts,js,java)](https://skillicons.dev)
+Have fsharp, but don't have a skill icon to fsharp
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=e6ca30&fontSize=40&fontAlignY=45&animation=twinkling&section=footer"/> 
