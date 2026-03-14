@@ -9,33 +9,15 @@
 
 We are brazilian programers
 
----
-
-### 📊 Our grade
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OsJanelas&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsJanelas&layout=compact&hide_border=true&title_color=e6ca30&text_color=e6ca30&bg_color=0d1117" />
 </div>
 
-
-
-### 📈 Our contributions
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsJanelas&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-
-### 🛠️ Languages we use much
-<p align="left">
-  <img src="https://img.shields.io/badge/Batch-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/F%23-%23378BBA.svg?style=for-the-badge&logo=fsharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
 ---
 
 ## All languages we used
